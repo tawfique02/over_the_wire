@@ -5,6 +5,11 @@
 
 ---
 
+<p align="center">
+  <img src="https://via.placeholder.com/800x400.png?text=Your+OverTheWire+Image+Here" alt="OverTheWire Wargames Banner" width="80%">
+  </p>
+
+---
 > **🚀 Level Up Your Hacking Skills: Introducing OverTheWire Wargames!**
 >
 > Want to master **Linux command-line skills** and dive into **cybersecurity**? Look no further than **OverTheWire**! It's a fantastic, **free online platform** that turns learning into a game. 🎮
