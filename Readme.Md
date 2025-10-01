@@ -1,8 +1,8 @@
 # 🛡️ OverTheWire Wargames: Learn Cybersecurity & Linux!
-
+<p align="center">
 [![GitHub](https://img.shields.io/badge/GitHub-Learning%20Resources-blue?style=for-the-badge&logo=github)](https://github.com/tawfique02/over_the_wire.git) [![Website](https://img.shields.io/badge/OverTheWire-Visit%20Site-brightgreen?style=for-the-badge&logo=internet-explorer)](https://overthewire.org/wargames/)
 [![License](https://img.shields.io/badge/License-Free%20to%20Learn-lightgrey?style=for-the-badge)](https://overthewire.org/wargames/)
-
+</p>
 ---
 
 <p align="center">
