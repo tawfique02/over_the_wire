@@ -6,7 +6,7 @@
 ---
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x400.png?text=Your+OverTheWire+Image+Here" alt="OverTheWire Wargames Banner" width="80%">
+  <img src="https://github.com/tawfique02/over_the_wire/blob/main/Image_ea83uhea83uhea83.png?text=Your+OverTheWire+Image+Here" alt="OverTheWire Wargames Banner" width="80%">
   </p>
 
 ---
